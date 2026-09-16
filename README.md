@@ -1,3 +1,4 @@
+<img src="glossy-banner.svg" alt="Yogendra Kushwaha — building intelligent products with AI" width="100%" />
 <p align="center">
   <img src="assets/glossy-banner.svg" alt="Yogendra Kushwaha — building intelligent products with AI" width="100%" />
 </p>
