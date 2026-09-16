@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-label="Yogendra Kushwaha, AI and machine learning developer">
+ <defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071126"/><stop offset=".52" stop-color="#142149"/><stop offset="1" stop-color="#071328"/></linearGradient>
+  <radialGradient id="a"><stop stop-color="#43d9e8" stop-opacity=".48"/><stop offset="1" stop-color="#43d9e8" stop-opacity="0"/></radialGradient>
+  <radialGradient id="b"><stop stop-color="#8b5cf6" stop-opacity=".55"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff" stop-opacity=".19"/><stop offset=".52" stop-color="#fff" stop-opacity=".06"/><stop offset="1" stop-color="#fff" stop-opacity=".025"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff" stop-opacity=".62"/><stop offset=".55" stop-color="#87b7ff" stop-opacity=".15"/><stop offset="1" stop-color="#fff" stop-opacity=".25"/></linearGradient>
+  <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#69e9ef"/><stop offset="1" stop-color="#af8cff"/></linearGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="36"/></filter>
+  <filter id="shadow"><feDropShadow dx="0" dy="15" stdDeviation="18" flood-color="#020714" flood-opacity=".55"/></filter>
+  <clipPath id="clip"><rect x="22" y="22" width="1156" height="306" rx="28"/></clipPath>
+ </defs>
+ <rect width="1200" height="350" rx="36" fill="url(#bg)"/>
+ <g clip-path="url(#clip)">
+  <circle cx="950" cy="65" r="240" fill="url(#a)" filter="url(#blur)"/>
+  <circle cx="1130" cy="320" r="230" fill="url(#b)" filter="url(#blur)"/>
+  <path d="M-50 266C279 100 489 420 845 196s475-55 475-55" fill="none" stroke="#9deaff" stroke-opacity=".12" stroke-width="2"/>
+  <path d="M-50 293C279 127 489 447 845 223s475-55 475-55" fill="none" stroke="#9deaff" stroke-opacity=".08" stroke-width="2"/>
+  <g filter="url(#shadow)"><rect x="53" y="49" width="1094" height="252" rx="24" fill="url(#glass)" stroke="url(#edge)" stroke-width="1.5"/></g>
+  <path d="M78 50h1044" stroke="#fff" stroke-opacity=".22"/>
+  <rect x="92" y="79" width="195" height="31" rx="15.5" fill="#9efbff" fill-opacity=".11" stroke="#9efbff" stroke-opacity=".35"/>
+  <circle cx="110" cy="95" r="4" fill="#6ef2e5"/>
+  <text x="123" y="100" fill="#baf8f3" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2">OPEN TO AI/ML ROLES</text>
+  <text x="91" y="169" fill="#f8fbff" font-family="Arial, Helvetica, sans-serif" font-size="51" font-weight="700" letter-spacing="-1.5">Yogendra Kushwaha</text>
+  <text x="94" y="206" fill="#d1dcf4" font-family="Arial, Helvetica, sans-serif" font-size="20">Building intelligent products with AI</text>
+  <rect x="93" y="231" width="318" height="2" rx="1" fill="url(#accent)"/>
+  <text x="94" y="264" fill="#aac1dc" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="1.1">RAG  /  LLMs  /  FULL-STACK AI</text>
+  <g transform="translate(889 102)">
+   <circle cx="82" cy="74" r="83" fill="#61dbea" fill-opacity=".04" stroke="#c5f5ff" stroke-opacity=".23"/>
+   <circle cx="82" cy="74" r="61" fill="#927dff" fill-opacity=".07" stroke="#b9a6ff" stroke-opacity=".38"/>
+   <circle cx="82" cy="74" r="29" fill="#8cdcf4" fill-opacity=".2" stroke="#d0f8ff" stroke-opacity=".65"/>
+   <circle cx="82" cy="74" r="9" fill="#e5faff"/>
+   <circle cx="23" cy="28" r="6" fill="#6fe8e8"/><circle cx="143" cy="38" r="6" fill="#a78bfa"/><circle cx="153" cy="120" r="6" fill="#7dd3fc"/><circle cx="35" cy="139" r="6" fill="#c4b5fd"/>
+   <path d="M23 28 82 74 143 38 M82 74l71 46 M82 74l-47 65" fill="none" stroke="#c6eaff" stroke-opacity=".38" stroke-width="2"/>
+  </g>
+ </g>
+ <rect x=".75" y=".75" width="1198.5" height="348.5" rx="35" fill="none" stroke="#c2e9ff" stroke-opacity=".24" stroke-width="1.5"/>
+</svg>
